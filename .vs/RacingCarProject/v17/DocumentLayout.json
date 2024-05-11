@@ -7,12 +7,16 @@
       "RelativeMoniker": "D:0:0:{020E2A9B-2D92-6466-2CEA-F9796246D986}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\delivery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{020E2A9B-2D92-6466-2CEA-F9796246D986}|Assembly-CSharp.csproj|C:\\ProjektyGry\\RacingCarProject\\assets\\scripts\\followcamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{020E2A9B-2D92-6466-2CEA-F9796246D986}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\followcamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\ProjektyGry\\RacingCarProject\\Assets\\Scripts\\Destroy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Destroy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{020E2A9B-2D92-6466-2CEA-F9796246D986}|Assembly-CSharp.csproj|C:\\ProjektyGry\\RacingCarProject\\assets\\scripts\\drivercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{020E2A9B-2D92-6466-2CEA-F9796246D986}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\drivercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{020E2A9B-2D92-6466-2CEA-F9796246D986}|Assembly-CSharp.csproj|C:\\ProjektyGry\\RacingCarProject\\assets\\scripts\\followcamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{020E2A9B-2D92-6466-2CEA-F9796246D986}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\followcamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,8 +26,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Destroy.cs",
+              "DocumentMoniker": "C:\\ProjektyGry\\RacingCarProject\\Assets\\Scripts\\Destroy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Destroy.cs",
+              "ToolTip": "C:\\ProjektyGry\\RacingCarProject\\Assets\\Scripts\\Destroy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Destroy.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T20:49:55.291Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -32,14 +47,14 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\Delivery.cs",
               "ToolTip": "C:\\ProjektyGry\\RacingCarProject\\Assets\\Scripts\\Delivery.cs",
               "RelativeToolTip": "Assets\\Scripts\\Delivery.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-11T19:27:58.838Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "FollowCamera.cs",
               "DocumentMoniker": "C:\\ProjektyGry\\RacingCarProject\\Assets\\Scripts\\FollowCamera.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\FollowCamera.cs",
@@ -57,7 +72,7 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\DriverController.cs",
               "ToolTip": "C:\\ProjektyGry\\RacingCarProject\\Assets\\Scripts\\DriverController.cs",
               "RelativeToolTip": "Assets\\Scripts\\DriverController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABSAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-11T16:12:49.575Z"
             }

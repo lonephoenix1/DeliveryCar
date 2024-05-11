@@ -12,8 +12,6 @@ public class DriverController : MonoBehaviour
     {
        
     }
-
-    // Update is called once per frame
     void Update()
     {
         float steerAmount = Input.GetAxis("Horizontal") * steerSpeed * Time.deltaTime;

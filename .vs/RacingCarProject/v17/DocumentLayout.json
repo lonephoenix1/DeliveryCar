@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ProjektyGry\\RacingCarProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{020E2A9B-2D92-6466-2CEA-F9796246D986}|Assembly-CSharp.csproj|c:\\projektygry\\racingcarproject\\assets\\scripts\\delivery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{020E2A9B-2D92-6466-2CEA-F9796246D986}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\delivery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{020E2A9B-2D92-6466-2CEA-F9796246D986}|Assembly-CSharp.csproj|C:\\ProjektyGry\\RacingCarProject\\assets\\scripts\\followcamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{020E2A9B-2D92-6466-2CEA-F9796246D986}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\followcamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{020E2A9B-2D92-6466-2CEA-F9796246D986}|Assembly-CSharp.csproj|C:\\ProjektyGry\\RacingCarProject\\assets\\scripts\\drivercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{020E2A9B-2D92-6466-2CEA-F9796246D986}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\drivercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Delivery.cs",
+              "DocumentMoniker": "C:\\ProjektyGry\\RacingCarProject\\Assets\\Scripts\\Delivery.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Delivery.cs",
+              "ToolTip": "C:\\ProjektyGry\\RacingCarProject\\Assets\\Scripts\\Delivery.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Delivery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T19:27:58.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FollowCamera.cs",
+              "DocumentMoniker": "C:\\ProjektyGry\\RacingCarProject\\Assets\\Scripts\\FollowCamera.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FollowCamera.cs",
+              "ToolTip": "C:\\ProjektyGry\\RacingCarProject\\Assets\\Scripts\\FollowCamera.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FollowCamera.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T19:12:32.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DriverController.cs",
+              "DocumentMoniker": "C:\\ProjektyGry\\RacingCarProject\\Assets\\Scripts\\DriverController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DriverController.cs",
+              "ToolTip": "C:\\ProjektyGry\\RacingCarProject\\Assets\\Scripts\\DriverController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DriverController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T16:12:49.575Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
